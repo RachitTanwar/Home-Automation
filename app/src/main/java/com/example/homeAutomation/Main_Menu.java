@@ -15,7 +15,6 @@ public class Main_Menu extends AppCompatActivity {
         setContentView(R.layout.activity_main_menu);
         Button button1 = (Button) findViewById(R.id.Button1);
         Button button2 = (Button) findViewById(R.id.Button2);
-        Button button3 = (Button) findViewById(R.id.Button3);
     }
 
     public void Button1(View view) {
